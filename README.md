@@ -1,12 +1,12 @@
-# CryptoLock
+# Pipeline Security Posture Management (P.S.P.M.)
 
-Projeto: CryptoLock — software de segurança empresarial composto por scripts e ferramentas para backup, defesa e armazenamento seguro em nuvem.
+Projeto: P.S.P.M. — software de segurança empresarial composto por scripts e ferramentas para backup, defesa e armazenamento seguro em nuvem.
 
 Status
 - Em projeto / design. Implementação inicial: scripts para backup e rotinas de defesa. Requisitos e planos ainda em definição.
 
 Descrição
-- CryptoLock oferece ferramentas simples e automatizáveis para proteger dados corporativos: backups periódicos, hardening/defesa de servidores, detecção básica de anomalias e integração com armazenamento na nuvem.
+- P.S.P.M. oferece ferramentas simples e automatizáveis para proteger dados corporativos: backups periódicos, hardening/defesa de servidores, detecção básica de anomalias e integração com armazenamento na nuvem.
 
 Funcionalidades planejadas
 - Scripts de backup (local e exportação para nuvem)
@@ -79,3 +79,4 @@ Contato
 
 Observação
 - Documento inicial; requisitos e funcionalidades estão sujeitos a alterações conforme o desenvolvimento e avaliação de viabilidade.
+
